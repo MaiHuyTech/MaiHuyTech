@@ -7,7 +7,7 @@ I'm a Developer
 - ⚡ Fun fact: i love sports especially gym and running and watching movies with someone
 <br>
 Connect with me:
-@HuyMaiTech or maihuytech@gmail.com
+<a>@HuyMaiTech</a> or maihuytech@gmail.com
 <br>
 Languages and Tools:
 
