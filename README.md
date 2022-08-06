@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mai Huy</h1>
-<h3 align="center">I'm a Developer</h3>
+<h3 align="center">I'm a Full-Stack Engineer</h3>
 
 - 🌱 I’m currently learning **Anything that I consider interesting**
 
